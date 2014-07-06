@@ -2,6 +2,7 @@
   Lost And Found
   Version 1.0
   Created 2014-06-19 J.G. Wezensky
+  MIT License
   
   Based on the "automatic typer" this sketch will attempt to start Notepad and then
   print out a pre-defined text document on the keyboard.  The program will wait 5 seconds after 
